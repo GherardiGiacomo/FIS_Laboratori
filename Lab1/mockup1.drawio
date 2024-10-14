@@ -1,0 +1,131 @@
+<mxfile host="65bd71144e">
+    <diagram id="GHNOGI97T-M4NzUWdZkp" name="Pagina-1">
+        <mxGraphModel dx="158" dy="158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="62" value="Registrati" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="24" width="550" height="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="Mail" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="170" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="xxxxxxx@yyyy.com" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="170" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="53" value="Nome" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="205" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="Giacomo" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="205" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="55" value="Cognome" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="240" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" value="Gherardi" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="240" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="57" value="Password" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="275" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="58" value="***************" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="275" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" value="Conferma" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="330" width="86" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=none;fillColor=#B0B0B0;strokeWidth=2;aspect=fixed;sketch=0;fontSize=9;" parent="1" vertex="1">
+                    <mxGeometry x="490" y="300" width="16" height="16" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="Premium" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="300" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="REGISTRAZIONE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="100" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" value="Registrati - Premium" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="150" y="520" width="550" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="1234-2345-3456-5677" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="640" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="FATTURAZIONE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="360" y="580" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="N° CARTA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="640" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="777" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="250" y="700" width="80" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="CVV" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="701" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="12/12/2002" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="520" y="701" width="80" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="83" value="SCADENZA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="456" y="701" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="PAYPAL" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="280" y="780" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="Conferma" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="850" width="86" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="92" value="Registrati - Premium" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="1100" width="550" height="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="93" value="1234-2345-3456-5677" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1220" width="350" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" value="FATTURAZIONE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="1160" width="100" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" value="N° CARTA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1220" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="777" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="260" y="1280" width="80" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="97" value="CVV" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="200" y="1281" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="12/12/2002" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;fillColor=#ffffff;rSize=0;fontColor=#666666;align=left;spacingLeft=3;strokeColor=#999999;" parent="1" vertex="1">
+                    <mxGeometry x="530" y="1281" width="80" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="99" value="SCADENZA" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="466" y="1281" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="101" value="PAYPAL" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;align=right;spacingRight=2;fontColor=#666666;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="1360" width="50" height="18" as="geometry"/>
+                </mxCell>
+                <mxCell id="102" value="Conferma" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" parent="1" vertex="1">
+                    <mxGeometry x="580" y="1430" width="86" height="33" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="&lt;br&gt;Inserisci un numero&lt;br&gt;di carta di credito&lt;br&gt;corretto&amp;nbsp;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;strokeColor=#666666;fontColor=#666666;fontSize=17;verticalAlign=top;whiteSpace=wrap;fillColor=#ffffff;spacingTop=32;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="1220" width="270" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="ERRORE ❌" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#666666;strokeColor=#666666;align=left;spacingLeft=8;fillColor=#ffffff;resizeWidth=1;" parent="84" vertex="1">
+                    <mxGeometry width="270" height="30" relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="" style="shape=ellipse;strokeColor=#008cff;resizable=0;fillColor=none;html=1;fontSize=9;" parent="85" vertex="1">
+                    <mxGeometry x="1" y="0.5" width="20" height="20" relative="1" as="geometry">
+                        <mxPoint x="-25" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="87" value="OK" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=16;fontColor=#666666;strokeColor=#c4c4c4;resizable=0;whiteSpace=wrap;fillColor=#ffffff;" parent="84" vertex="1">
+                    <mxGeometry x="0.5" y="1" width="120" height="25" relative="1" as="geometry">
+                        <mxPoint x="-60" y="-33" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="103" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#B0B0B0;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="1">
+                    <mxGeometry x="264" y="781" width="16" height="16" as="geometry"/>
+                </mxCell>
+                <mxCell id="104" value="" style="dashed=0;labelPosition=right;align=left;shape=mxgraph.gmdl.checkbox;strokeColor=#B0B0B0;fillColor=none;strokeWidth=2;aspect=fixed;sketch=0;" vertex="1" parent="1">
+                    <mxGeometry x="274" y="1361" width="16" height="16" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

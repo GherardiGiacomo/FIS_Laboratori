@@ -1,4 +1,6 @@
 ![alt text](ucdiagram.png)
+----
+
 # Caso d’uso: Registrazione
 **ID**: 1  
 **Breve descrizione**: L’utente si registra alla piattaforma fornendo i propri dati e sceglie il tipo di registrazione.  
@@ -24,8 +26,9 @@
 - RegistrazioneFacebook  
 - EmailNonValida  
 
----
+![alt text](mockup1.png)
 
+---
 # Caso d’uso: RicercaCatalogo
 **ID**: 3  
 **Breve descrizione**: L’utente cerca nel catalogo della piattaforma un contenuto.  
@@ -45,3 +48,5 @@
    6.1 La piattaforma restituisce un errore che corrisponde all’assenza del contenuto desiderato nel proprio catalogo.  
 **Postcondizioni**: Il film o la serie TV ricercata dall’utente viene restituita.  
 **Sequenza degli eventi alternativa**: Nessuna  
+
+![alt text](mockup2.png)
